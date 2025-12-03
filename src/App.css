@@ -1,0 +1,44 @@
+body {
+  background: #27014d;
+  text-align: center;
+}
+
+.App {
+  display: inline-block;
+  background: #d6adff;
+  color: #2a044f;
+  border-radius: 15px;
+  margin: 20px;
+  border: inset;
+  border-color: #2a044f;
+  text-align: center;
+}
+
+hr {
+  border: dashed 1px #2a044f; 
+}
+
+input {
+  border: solid 1px #2a044f;
+  border-radius: 5px;
+  background-color: #f7e6ff
+}
+
+.container {
+  text-align: center;
+  padding: 10px;
+}
+
+button {
+  border: solid 1px #2a044f;
+  border-radius: 5px;
+  background: #d6adff;
+  padding: 5px;
+  color: #2a044f;
+  margin: 5px;
+}
+
+ul {
+  text-align: left;
+  list-style-type: square;
+}

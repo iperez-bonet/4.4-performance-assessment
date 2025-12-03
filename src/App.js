@@ -1,12 +1,12 @@
-import Counter from './Counter.js';
-import Input from './Input.js';
-import Todolist from './Todolist.js';
+import CounterMenu from './CounterMenu.js';
+import InputMenu from './InputMenu.js';
+import ListMenu from './ListMenu.js';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-     <Counter /> <hr /> <Input /> <hr /> <Todolist />
+     <CounterMenu /> <hr /> <InputMenu /> <hr /> <ListMenu />
     </div>
   );
 }
